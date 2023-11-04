@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Soundboard App
+- 🔭 I’m currently working on my EP
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Software Patterns ;)
 - 📫 How to reach me: Telegram @TheJuliaaaan
